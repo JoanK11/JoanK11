@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there! :wave:
+
+I'm Joan, a 4th-year computer science student at the Polytechnic University of Catalonia (Barcelona School of Informatics).
+
+In my profile, you can take a look at some assignments I've submitted for classes, as well as some of my personal projects.
+
+Here are some stats about my profile:
+
+![JoanK11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanK11&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **JoanK11/JoanK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
