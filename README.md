@@ -1,8 +1,10 @@
 # Hello there! :wave:
 
-I'm Joan, a 4th-year computer science student at the Polytechnic University of Catalonia (Barcelona School of Informatics).
+I'm Joan, a 4th-year Computer Science student at the Barcelona School of Informatics (FIB), specializing in Computing. I am passionate about Generative AI and Computer Vision. On my profile, you'll find a selection of assignments submitted for classes as well as some of my personal projects.
 
-In my profile, you can take a look at some assignments I've submitted for classes, as well as some of my personal projects.
+I am currently working as a Generative AI Developer at The CX Lab Barcelona. In 2023, I participated in a Summer Program at the Beijing Institute of Technology, where I deepened my understanding of AI. 
+
+Following this, my academic pursuits continued at the KTH Royal Institute of Technology in Stockholm as an exchange student. Here, I am focusing on my bachelor's thesis on AI in Credit Scoring while also expanding my knowledge through Master's courses in Machine Learning.
 
 Here are some stats about my profile:
 
