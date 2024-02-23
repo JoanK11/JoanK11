@@ -5,16 +5,16 @@
 - 💡 Passionate about **Generative AI** and **Computer Vision**.
 - 📚 On my profile, you'll find a mix of academic assignments and personal projects that showcase my skills and interests.
 
-### 👨‍🔬 Professional Experience:
+### 👨‍🔬 Professional Experience
 - 🚀 Currently working as a **Generative AI Developer** at **The CX Lab Barcelona**.
 
-### 🌍 Academic Adventures:
+### 🌍 Academic Adventures
 - 🇨🇳 In 2023, I took part in an enriching AI Summer Program at the **Beijing Institute of Technology**.
 - 🇸🇪 As an exchange student at **KTH Royal Institute of Technology** in Stockholm, I'm:
   - 📝 Writing my bachelor's thesis on **AI in Credit Scoring**.
   - 🧠 Engaging in **Master's courses in Machine Learning** to broaden my expertise.
 
-### 📊 Profile Stats:
+### 📊 Profile Stats
 - *Here are some stats about my profile...*
 
 ![JoanK11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanK11&count_private=true&show_icons=true&theme=tokyonight)
