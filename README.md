@@ -1,12 +1,21 @@
 # Hello there! :wave:
 
-I'm Joan, a 4th-year Computer Science student at the Barcelona School of Informatics (FIB), specializing in Computing. I am passionate about Generative AI and Computer Vision. On my profile, you'll find a selection of assignments submitted for classes as well as some of my personal projects.
+### 👨‍💻 About Me
+- 🎓 I am a 4th-year Computer Science student at the **Barcelona School of Informatics (FIB)**, specializing in Computing.
+- 💡 Passionate about **Generative AI** and **Computer Vision**.
+- 📚 On my profile, you'll find a mix of academic assignments and personal projects that showcase my skills and interests.
 
-I am currently working as a Generative AI Developer at The CX Lab Barcelona. In 2023, I participated in a Summer Program at the Beijing Institute of Technology, where I deepened my understanding of AI. 
+### 👨‍🔬 Professional Experience:
+- 🚀 Currently working as a **Generative AI Developer** at **The CX Lab Barcelona**.
 
-Following this, my academic pursuits continued at the KTH Royal Institute of Technology in Stockholm as an exchange student. Here, I am focusing on my bachelor's thesis on AI in Credit Scoring while also expanding my knowledge through Master's courses in Machine Learning.
+### 🌍 Academic Adventures:
+- 🇨🇳 In 2023, I took part in an enriching AI Summer Program at the **Beijing Institute of Technology**.
+- 🇸🇪 As an exchange student at **KTH Royal Institute of Technology** in Stockholm, I'm:
+  - 📝 Writing my bachelor's thesis on **AI in Credit Scoring**.
+  - 🧠 Engaging in **Master's courses in Machine Learning** to broaden my expertise.
 
-Here are some stats about my profile:
+### 📊 Profile Stats:
+- *Here are some stats about my profile...*
 
 ![JoanK11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanK11&count_private=true&show_icons=true&theme=tokyonight)
 
