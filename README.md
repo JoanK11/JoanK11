@@ -6,7 +6,7 @@
 - 📚 On my profile, you'll find a mix of academic assignments and personal projects that showcase my skills and interests.
 
 ### 👨‍🔬 Professional Experience
-- 🚀 Currently working as a **Generative AI Developer** at **The CX Lab Barcelona**.
+- 🚀 Worked as a **Generative AI Developer** at **The CX Lab Barcelona**.
 
 ### 🌍 Academic Adventures
 - 🇨🇳 In 2023, I took part in an enriching AI Summer Program at the **Beijing Institute of Technology**.
