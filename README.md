@@ -1,6 +1,6 @@
-# Hello, World! :wave:
+# Hello, World! I'm Joan Caballero Castro :wave:
 
-I'm Joan Caballero Castro, currently pursuing a Master's degree in Artifical Intelligence. I enjoy building AI solutions to real-life problems.
+I enjoy building AI solutions to real-life problems.
 
 ### About Me
 - 🎓 Master's student in Artificial Intelligence at UPC, UB, and URV.
