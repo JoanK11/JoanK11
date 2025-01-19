@@ -1,35 +1,15 @@
-# Hello there! :wave:
+# Hello, World! :wave:
 
-### 👨‍💻 About Me
-- 🎓 I am a 4th-year Computer Science student at the **Barcelona School of Informatics (FIB)**, specializing in Computing.
-- 💡 Passionate about **Generative AI** and **Computer Vision**.
-- 📚 On my profile, you'll find a mix of academic assignments and personal projects that showcase my skills and interests.
+I'm Joan Caballero Castro, currently pursuing a Master's degree in Artifical Intelligence. I enjoy building AI solutions to real-life problems.
 
-### 👨‍🔬 Professional Experience
+### About Me
+- 🎓 Master's student in Artificial Intelligence at UPC, UB, and URV.
+- 💡 Passionate about **Generative AI**, **Computer Vision**, and **Natural Language Processing**.
+
+### Professional Experience
 - 🚀 Worked as a **Generative AI Developer** at **The CX Lab Barcelona**.
 
-### 🌍 Academic Adventures
-- 🇨🇳 In 2023, I took part in an enriching AI Summer Program at the **Beijing Institute of Technology**.
-- 🇸🇪 As an exchange student at **KTH Royal Institute of Technology** in Stockholm, I'm:
-  - 📝 Writing my bachelor's thesis on **AI in Credit Scoring**.
-  - 🧠 Engaging in **Master's courses in Machine Learning** to broaden my expertise.
-
-### 📊 Profile Stats
-- *Here are some stats about my profile...*
-
-![JoanK11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanK11&count_private=true&show_icons=true&theme=tokyonight)
-
-<!--
-**JoanK11/JoanK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academic Background
+- 🎓 Graduated in Computer Science at the **Technical University of Catalonia – BarcelonaTech (UPC)**.
+- 🌐 Awarded the opportunity to study AI at the **Beijing Institute of Technology**.
+- 📚 Attended **KTH Royal Institute of Technology** to complete my bachelor's thesis and engage in Master's-level Machine Learning courses.
