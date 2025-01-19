@@ -1,6 +1,6 @@
-# Hello, World! I'm Joan Caballero Castro :wave:
+# Hello, World! :wave:
 
-I enjoy building AI solutions to real-life problems.
+I'm Joan Caballero Castro. I enjoy building AI solutions to real-life problems.
 
 ### About Me
 - 🎓 Master's student in Artificial Intelligence at UPC, UB, and URV.
