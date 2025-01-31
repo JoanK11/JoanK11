@@ -12,4 +12,4 @@ I'm Joan Caballero Castro. I enjoy building AI solutions to real-life problems.
 ### Academic Background
 - 🎓 Graduated in Computer Science at the **Technical University of Catalonia – BarcelonaTech (UPC)**.
 - 🌐 Awarded the opportunity to study AI at the **Beijing Institute of Technology**.
-- 📚 Attended **KTH Royal Institute of Technology** to complete my bachelor's thesis and engage in Master's-level Machine Learning courses.
+- 📚 Attended **KTH Royal Institute of Technology** to complete my bachelor's thesis.
