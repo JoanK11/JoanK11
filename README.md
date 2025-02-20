@@ -3,10 +3,11 @@
 I'm Joan Caballero Castro. I enjoy building AI solutions to real-life problems.
 
 ### About Me
-- 🎓 Master's student in Artificial Intelligence at UPC, UB, and URV.
+- 🎓 Master's student in Artificial Intelligence at UPC.
 - 💡 Passionate about **Generative AI**, **Computer Vision**, and **Natural Language Processing**.
 
 ### Professional Experience
+- 🤖 Working as a **Generative AI Developer** at **MICA ECO**.
 - 🚀 Worked as a **Generative AI Developer** at **The CX Lab Barcelona**.
 
 ### Academic Background
